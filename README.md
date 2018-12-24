@@ -1,2 +1,3 @@
 # Stock-Project-M
-ipynb files
+Jupyter Notebook file
+csv file - test data
